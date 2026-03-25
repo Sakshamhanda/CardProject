@@ -19,8 +19,7 @@ This project demonstrates how to create a clean layout with proper alignment, sp
 ## 🛠️ Technologies Used
 
 * HTML5
-* CSS3 (Flexbox)
-
+* CSS3
 ---
 
 ## 📸 Preview
@@ -33,18 +32,9 @@ This card includes:
 
 ---
 
-## 🧠 What I Learned
-
-* How to use **Flexbox** for layout alignment
-* Managing spacing without using unnecessary padding
-* Styling images using `border-radius`
-* Creating responsive and clean UI components
-
----
-
 ## 🔗 Live Link
 
-👉 [View Project](https://github.com/Sakshamhanda)
+👉 [View Project](https://sakshamhanda.github.io/CardProject/)
 
 ---
 
