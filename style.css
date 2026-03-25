@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* overflow: hidden; */
+}
+.container{
+    height: 100vh;
+    width: 100vw;
+    background-image: linear-gradient( 92.7deg,  rgba(245,212,212,1) 8.5%, rgb(229, 227, 180) 90.2% );
+}
